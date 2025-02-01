@@ -5,4 +5,5 @@ Prodi : Ilmu computer <br/>
 Hobi Saya : Maen Bola volyy dan main Game <br/>
 
 
-![WhatsApp Image 2024-10-15 at 10 03 03_d2788aae](https://github.com/user-attachments/assets/fd2afa73-a3e3-4937-b866-a6b323840d14)
+![WhatsApp Image 2025-02-01 at 20 08 15_c052ae52](https://github.com/user-attachments/assets/49d856c4-2c41-4cbe-a090-3699fe2158c2)
+
