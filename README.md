@@ -1,6 +1,7 @@
 # Tugas-uas-alpro-no 14 <br/>
-Nama :Ariyanto <br/>
-Nim :I.2410167 <br/>
+Nama   :Ariyanto <br/>
+Nim    :I.2410167 <br/>
+Prodi : Ilmu computer <br/>
 Hobi Saya : Maen Bola volyy dan main Game <br/>
 
 
